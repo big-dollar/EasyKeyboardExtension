@@ -1,7 +1,8 @@
 # easyKeyboard
 Control the browser simply through the keyboard with WASD
 通过键盘WASD键简单的控制你的浏览器
-![生成特定键盘图标](https://github.com/user-attachments/assets/8e9eedc8-d607-4534-ad9f-97c1dafa5bd1)
+![Uploading image.png…]()
+
 
 
 平时在长时间浏览网页的时候，经常需要打字和使用鼠标滚动，或者使用ctrl、Fn等快捷键来完成浏览器的动作，非常麻烦和劳累。所以就简单写了一个支持扩展模块，支持chromium系列的浏览器（Chrome、Edge、360等）
