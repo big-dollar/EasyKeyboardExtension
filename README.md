@@ -1,9 +1,7 @@
 # easyKeyboard
 Control the browser simply through the keyboard with WASD
 通过键盘WASD键简单的控制你的浏览器
-![Uploading image.png…]()
-
-
+![image](https://github.com/user-attachments/assets/da1fa609-fef1-43dc-8fb5-2a8e288018ab)
 
 平时在长时间浏览网页的时候，经常需要打字和使用鼠标滚动，或者使用ctrl、Fn等快捷键来完成浏览器的动作，非常麻烦和劳累。所以就简单写了一个支持扩展模块，支持chromium系列的浏览器（Chrome、Edge、360等）
 平时我都是用VIM扩展，但是对于不熟悉VIM快捷键的用户很难记住，所以将常用的WASD键利用起来。
