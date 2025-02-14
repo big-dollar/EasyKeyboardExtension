@@ -30,14 +30,23 @@ Control the browser simply through the keyboard with WASD
 Key Bindings for Browser Control:
 
 > W Key: Scroll up
+
 > S Key: Scroll down
+
 > A Key: Go to the previous page
+
 > D Key: Go to the next page
+
 > Q Key: Scroll to the top
+
 > E Key: Scroll to the bottom
+
 > R Key: Refresh the page
+
 > X Key: Close the tab
+
 > F Key: Open a search window (search using Bing)
+
 
 ### 主要自用，你有什么好的建议随时留言
 
