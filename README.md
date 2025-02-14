@@ -27,6 +27,18 @@ Control the browser simply through the keyboard with WASD
 
 > F键：弹出搜索窗口（通过bing搜索输入的关键词）
 
+Key Bindings for Browser Control:
+
+W Key: Scroll up
+S Key: Scroll down
+A Key: Go to the previous page
+D Key: Go to the next page
+Q Key: Scroll to the top
+E Key: Scroll to the bottom
+R Key: Refresh the page
+X Key: Close the tab
+F Key: Open a search window (search using Bing)
+
 ### 主要自用，你有什么好的建议随时留言
 
 ![image](https://github.com/user-attachments/assets/7951f050-9eb9-41ad-9d81-26d2b64e7720)
