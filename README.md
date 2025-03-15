@@ -1,3 +1,4 @@
+已迁移至 https://github.com/big-dollar/100-AI-coded
 # easyKeyboard
 Control the browser simply through the keyboard with WASD
 通过键盘WASD键简单的控制你的浏览器
